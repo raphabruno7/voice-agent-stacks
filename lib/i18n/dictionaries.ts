@@ -174,7 +174,7 @@ const pt: Dict = {
         powered: "Hume EVI 4-mini · Claude Sonnet 4.5",
       },
       livekit: {
-        badge: "Teste · Live AI Voice",
+        badge: "Live AI Voice",
         title: "Live AI Voice via LiveKit",
         description: "Modelo de áudio nativo, multilíngue, candidato a telefone.",
         powered: "Gemini 2.0 Flash · LiveKit · pt-PT",
@@ -218,7 +218,7 @@ const pt: Dict = {
     back: "← Portfólio",
   },
   livekit: {
-    badge: "Teste · Live AI Voice",
+    badge: "Live AI Voice",
     title: "Live AI Voice",
     titleHighlight: "via LiveKit",
     descBefore: "Agente de voz com",
@@ -354,7 +354,7 @@ const en: Dict = {
         powered: "Hume EVI 4-mini · Claude Sonnet 4.5",
       },
       livekit: {
-        badge: "Test · Live AI Voice",
+        badge: "Live AI Voice",
         title: "Live AI Voice via LiveKit",
         description: "Native audio model, multilingual, phone-line candidate.",
         powered: "Gemini 2.0 Flash · LiveKit · pt-PT",
@@ -383,7 +383,7 @@ const en: Dict = {
     back: "← Portfolio",
   },
   livekit: {
-    badge: "Test · Live AI Voice",
+    badge: "Live AI Voice",
     title: "Live AI Voice",
     titleHighlight: "via LiveKit",
     descBefore: "Voice agent with",
