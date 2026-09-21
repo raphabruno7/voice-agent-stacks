@@ -152,7 +152,7 @@ const pt: Dict = {
   nav: {
     portfolio: "Portfólio",
     hume: "Hume EVI",
-    livekit: "Gemini Live",
+    livekit: "Live AI Voice",
     elevenlabs: "ElevenLabs",
     vapi: "Vapi",
     retell: "Retell",
@@ -174,8 +174,8 @@ const pt: Dict = {
         powered: "Hume EVI 4-mini · Claude Sonnet 4.5",
       },
       livekit: {
-        badge: "Teste · Gemini Live",
-        title: "Gemini Live via LiveKit",
+        badge: "Teste · Live AI Voice",
+        title: "Live AI Voice via LiveKit",
         description: "Modelo de áudio nativo, multilíngue, candidato a telefone.",
         powered: "Gemini 2.0 Flash · LiveKit · pt-PT",
       },
@@ -218,11 +218,11 @@ const pt: Dict = {
     back: "← Portfólio",
   },
   livekit: {
-    badge: "Teste · Gemini Live",
-    title: "Gemini Live",
+    badge: "Teste · Live AI Voice",
+    title: "Live AI Voice",
     titleHighlight: "via LiveKit",
     descBefore: "Agente de voz com",
-    descBold: "Google Gemini Live",
+    descBold: "áudio nativo em tempo real",
     descAfter:
       "— teste de qualidade de voz e latência em browser, antes de ligar ao telefone.",
     powered: "Tecnologia: Gemini 2.0 Flash · LiveKit · pt-PT",
@@ -283,7 +283,7 @@ const pt: Dict = {
       },
     },
     livekit: {
-      callButton: "Falar com o agente — Gemini Live",
+      callButton: "Falar com o agente — Live AI Voice",
       statusListening: "A ouvir…",
       statusThinking: "A processar…",
       statusSpeaking: "A falar…",
@@ -332,7 +332,7 @@ const en: Dict = {
   nav: {
     portfolio: "Portfolio",
     hume: "Hume EVI",
-    livekit: "Gemini Live",
+    livekit: "Live AI Voice",
     elevenlabs: "ElevenLabs",
     vapi: "Vapi",
     retell: "Retell",
@@ -354,8 +354,8 @@ const en: Dict = {
         powered: "Hume EVI 4-mini · Claude Sonnet 4.5",
       },
       livekit: {
-        badge: "Test · Gemini Live",
-        title: "Gemini Live via LiveKit",
+        badge: "Test · Live AI Voice",
+        title: "Live AI Voice via LiveKit",
         description: "Native audio model, multilingual, phone-line candidate.",
         powered: "Gemini 2.0 Flash · LiveKit · pt-PT",
       },
@@ -383,11 +383,11 @@ const en: Dict = {
     back: "← Portfolio",
   },
   livekit: {
-    badge: "Test · Gemini Live",
-    title: "Gemini Live",
+    badge: "Test · Live AI Voice",
+    title: "Live AI Voice",
     titleHighlight: "via LiveKit",
-    descBefore: "Voice agent powered by",
-    descBold: "Google Gemini Live",
+    descBefore: "Voice agent with",
+    descBold: "native real-time audio",
     descAfter:
       "— test voice quality and latency in the browser, before going live on the phone.",
     powered: "Powered by Gemini 2.0 Flash · LiveKit · pt-PT",
@@ -435,7 +435,7 @@ const en: Dict = {
       },
     },
     livekit: {
-      callButton: "Talk to the agent — Gemini Live",
+      callButton: "Talk to the agent — Live AI Voice",
       statusListening: "Listening…",
       statusThinking: "Thinking…",
       statusSpeaking: "Speaking…",
